@@ -10,7 +10,7 @@ The latest version can be obtained from [https://www.getprimate.xyz/download](ht
 
 Alternatively, you can browse all releases here [https://github.com/getprimate/primate/releases](https://github.com/getprimate/primate/releases)
 
-### Windows
+## Windows
 
 Download the executable installer for Windows and run it.
 
@@ -18,13 +18,15 @@ Follow the instructions in the setup wizard.
 
 ![Installer on Windows 10](../.gitbook/assets/exe-windows-10.png)
 
-### macOS
+## macOS
 
 Download the DMG image, double click and open the image to mount it.
 
 A finder window containing two icons will be displayed. Simply drag the primate icon to the Applications icon.
 
-### Linux
+![DMG Image on macOS Monterey](../.gitbook/assets/dmg-macos-monterey.png)
+
+## Linux
 
 On Linux based distributions, Primate can be installed as an AppImage, a Snap package or by downloading and extracting the tarball (tar.gz) archive.
 
